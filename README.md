@@ -1,6 +1,6 @@
-# TiAni
+# Uanimurs (TV)
 
-TiAni is an Anime DISCOVERY application made for ANDROID TV platforms.
+Uanimurs (TV) is an Anime DISCOVERY application made for ANDROID TV platforms. REBRANDED FROM TIANI (Which is a long story btw, ......actually it isn't, I just like the name)
 
 Feel free to chip in to add more functionality or debug (pick your poison or both 💀💀💀)
 
