@@ -1,6 +1,7 @@
-# NOTE: 
-This application is a precursor of Uanimurs, the working version, Its just UI and nothing more 
-- Created for fun to test on android TV. Home page looks bad, I know I will update it soon while adding playing 
+> [!NOTE] 
+> This application is a precursor of Uanimurs, the working version, Its just UI and nothing more 
+> - Created for fun to test on android TV. Home page looks bad, I know I will update it soon while adding playing
+
 # Uanimurs (TV)
 
 Uanimurs (TV) is an Anime DISCOVERY application made for ANDROID TV platforms.
